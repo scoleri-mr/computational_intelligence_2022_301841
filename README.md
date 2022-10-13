@@ -1,1 +1,1 @@
-"# computational_intelligence_2022_301841" 
+Folder with homeworks and code for the computational intelligence 2022/2023 course
