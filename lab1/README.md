@@ -1,5 +1,5 @@
 # LAB1
-The complete solution can be found in [lab1.ipynb]()
+The complete solution can be found in [lab1.ipynb](https://github.com/scoleri-mr/computational_intelligence_2022_301841/blob/main/lab1/lab1.ipynb)
 ## Collaboration
 This work was completed in collboration with
 - Jonathan Damone (s301514)
