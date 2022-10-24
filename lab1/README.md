@@ -27,3 +27,12 @@ Optimized solution for N=20: w=23, nodes visited=1676081
 N = 5 found a solution with 5 elements; visited 32 states over 775 generated states  
 N = 10 found a solution with 10 elements; visited 583 states over 29100 generated states  
 N = 20 found a solution with 23 elements; visited 2864 states over 97342 generated states  
+
+## Work afted deadline
+### Vanilla Hill Climbing
+Solution for N=5: w=5 (bloat=0%)
+Solution for N=10: w=11 (bloat=10%)
+Solution for N=20: w=24 (bloat=20%)
+Solution for N=100: w=214 (bloat=114%)
+Solution for N=500: w=1566 (bloat=213%)
+Solution for N=1000: w=3383 (bloat=238%)
