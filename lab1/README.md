@@ -36,3 +36,11 @@ Solution for N=20: w=24 (bloat=20%)
 Solution for N=100: w=214 (bloat=114%)  
 Solution for N=500: w=1566 (bloat=213%)  
 Solution for N=1000: w=3383 (bloat=238%)  
+
+### (1+1) Evolution Strategy
+Solution for N=5: w=5 (bloat=0%)  
+Solution for N=10: w=13 (bloat=30%)  
+Solution for N=20: w=28 (bloat=40%)  
+Solution for N=100: w=205 (bloat=105%)  
+Solution for N=500: w=1566 (bloat=213%)  
+Solution for N=1000: w=3692 (bloat=269%)  
