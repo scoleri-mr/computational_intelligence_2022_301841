@@ -12,3 +12,4 @@ Set Covering solution implemented in python using
 
 (after deadline)
 - vanilla hill climbing  
+- (1+1) Evolution Strategy
