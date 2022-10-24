@@ -29,7 +29,7 @@ N = 10 found a solution with 10 elements; visited 583 states over 29100 generate
 N = 20 found a solution with 23 elements; visited 2864 states over 97342 generated states  
 
 ## Work afted deadline
-### Vanilla Hill Climbing
+### Vanilla Hill Climbing Search
 Solution for N=5: w=5 (bloat=0%)
 Solution for N=10: w=11 (bloat=10%)
 Solution for N=20: w=24 (bloat=20%)
