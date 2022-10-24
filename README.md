@@ -7,4 +7,8 @@ The code in this folder is developed in collaboration with
 Set Covering solution implemented in python using 
 - greedy algorithm (not optimal but feasible for N=1000)
 - combinations (memory error for N greater than 20)
-- graph search (computation time excessive for N greater than 20)
+- graph search (computation time excessive for N greater than 20)  
+
+
+(after deadline)
+- vanilla hill climbing  
