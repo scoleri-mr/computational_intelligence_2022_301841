@@ -9,7 +9,16 @@ Set Covering solution implemented in python using
 - combinations (memory error for N greater than 20)
 - graph search (computation time excessive for N greater than 20)  
 
-
 (after deadline)
 - vanilla hill climbing  
 - (1+1) Evolution Strategy
+
+## LAB2  
+Solution to the set covering problem using a genetic algorithm.  
+Tried with:
+- fusion crossover
+- one point cut crossover
+- probability to have crossover fixed at 0.7 (and 0.3 for mutations)
+- increasing probability to have a mutation and decreasing probability to have crossover with the passing of generations
+- parameter tuning
+- plot to show the convergence of the algorithm for N=100
