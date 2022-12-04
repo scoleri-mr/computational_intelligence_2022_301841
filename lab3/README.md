@@ -19,4 +19,4 @@ To better understand the problem and implement a first approach to play the game
 ## 3.1: An agent using fixed rules based on nim-sum (i.e., an expert system)
 For this task we use a genetic algorithm that allows us to chose a certain linear combination of different rules. The fitness function is calculated evaluating the genome (combination of rules) against a semi-optimal strategy and against a random strategy.
 I chose to not use the optimal strategy for the fitness in order to give a winning chance to the strategy found by the GA.
-More details can be found in the [code]('')
+More details can be found in the [code]('https://github.com/scoleri-mr/computational_intelligence_2022_301841/blob/main/lab3/lab3.ipynb')
