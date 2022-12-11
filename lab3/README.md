@@ -48,7 +48,7 @@ We perform a parameter tuning choosing from different values for the random fact
 We manage to win more than 55% of the games against the optimal strategy, around 1% against the optimal and around 20% against the semi-optimal.
 
 ## Final results
-Here I will present some of the results obtained evaluating different strategies against each other. Please keep in mind that the several random choices in our methods make it almost impossible to replicate the exact same result every time we run the code. The percentages shown here may vary.
+Here I will present some of the results obtained evaluating different strategies against each other. Please keep in mind that the several random choices in our methods make it almost impossible to replicate the exact same result every time we run the code. The percentages shown here may vary.  
 `hard coded strategy VS random strategy -> hard coded wins 96%`  
 `hard coded strategy VS optimal strategy -> hard coded wins 96%`  
 `fixed optimal strategy VS random strategy -> fixed optimal wins 100%`  
