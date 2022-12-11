@@ -22,3 +22,9 @@ Tried with:
 - increasing probability to have a mutation and decreasing probability to have crossover with the passing of generations
 - parameter tuning
 - plot to show the convergence of the algorithm for N=100
+
+## LAB3
+Train agents to play the game of Nim.
+- 3.0: Basic hard coded rules to better understad the game and some appropriate strategies
+- 3.1: An agent using fixed rules based on nim-sum (i.e., an expert system)
+- 3.2: An agent using evolved rules. We use a GA to find a linear combination of some rules that will create a player able to win against a random strategy and against a semi-optimal strategy
