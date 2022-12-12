@@ -27,4 +27,6 @@ Tried with:
 Train agents to play the game of Nim.
 - 3.0: Basic hard coded rules to better understad the game and some appropriate strategies
 - 3.1: An agent using fixed rules based on nim-sum (i.e., an expert system)
-- 3.2: An agent using evolved rules. We use a GA to find a linear combination of some rules that will create a player able to win against a random strategy and against a semi-optimal strategy
+- 3.2: An agent using evolved rules. We use a GA to find a linear combination of some rules that will create a player able to win against a random strategy and against a semi-optimal strategy  
+- 3.3: An agent using minmax with alpha-beta pruning and a maximum depth. We also use a cache to improve performance in terms of games won and computation time. The caches for different nim_size are saved and loaded to play future games with the same nim_size even faster.
+- 3.4: An agent using reinforcement learning trained against the optimal strategy. We perform a parameter tuning on the random factor and the learning rate. 
