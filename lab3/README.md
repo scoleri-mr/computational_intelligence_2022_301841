@@ -27,7 +27,7 @@ Evaluating this strategy we see that it wins all the maches against both the ran
 
 ## 3.2: An agent using evolved rules
 We use a genetic algorithm that allows us to chose a certain linear combination of different rules. The fitness function is calculated evaluating the genome (combination of rules) against a semi-optimal strategy and against a random strategy.
-The semi-optimal strategy behaves like the optimal strategy 80% of the times and like the random strategy the remaining 20%.  
+The semi-optimal strategy behaves like the optimal strategy 75% of the times and like the random strategy the remaining 25%.  
 I chose to not use the optimal strategy for the fitness in order to give a winning chance to the strategy found by the GA.
 More details can be found in the [code](https://github.com/scoleri-mr/computational_intelligence_2022_301841/blob/main/lab3/lab3.ipynb).  
 The evolved strategy wins more than 80% of the matches against the pure random, about half of the matches against the semi-optimal and of course loses against the optimal.
