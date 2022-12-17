@@ -41,3 +41,4 @@ Train agents to play the game of Nim.
 
 ### LAB3 reviews:
 - [review 1](https://github.com/FlavioPatti/Computational-Intelligence_2022-23/issues/8)
+- [review 2](https://github.com/bred91/Computational_Intelligence_2022-2023/issues/5)
